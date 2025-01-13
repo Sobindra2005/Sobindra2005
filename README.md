@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @Sobindra2005<br>I’m interested in cyber security<br>I’m currently exploring cyber security and learning web development<br>I’m looking to collaborate on Next.js projects
+Hi, I’m @Sobindra2005<br>I’m interested in cyber security<br>I’m looking to collaborate on Next.js projects
 
 
 ## 🌐 Socials:
